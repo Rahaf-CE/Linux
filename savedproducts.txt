@@ -1,0 +1,9 @@
+123456;Mango Juice;Beverages;20;97;Juice World;1;5;2023-12-31
+234567;Banana Smoothie;Beverages;3;148;Smoothie Haven;0;0;2023-10-15
+345678;Wheat Bread;Bakery;2;50;Bakery A;1;2;2023-11-30
+456789;Cheddar Cheese;Dairy;4;30;Dairy Delights;0;0;2023-09-25
+567890;Pasta;Pasta;15;80;Pasta Palace;1;2;2023-12-10
+678901;Chicken Drumsticks;Meat;50;20;Butcher's Best;0;0;2023-10-05
+789012;Milk;Dairy;12;100;Dairy Delights;1;2;2023-11-20
+890123;Eggs;Dairy;3;70;Eggcellent Farms;0;0;2023-09-30
+901234;Basmati Rice;Grains;4;90;Global Foods;1;3;2023-12-15
