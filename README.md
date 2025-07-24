@@ -70,6 +70,7 @@ users.txt
 products.txt
 
 🔐 Future Improvements
+
 Add GUI using Tkinter or PyQt
 
 Integrate database (e.g., MySQL or SQLite) instead of text files
