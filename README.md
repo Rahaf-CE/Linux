@@ -93,6 +93,8 @@ Price: 250
 Inventory: 30
 Supplier: LuxBrand
 ...
+
+
 💾 How to Run
 
 bash
